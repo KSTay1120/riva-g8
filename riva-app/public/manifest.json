@@ -1,0 +1,14 @@
+{
+  "short_name": "The Riva",
+  "name": "The Riva Residences",
+  "description": "Freehold Luxury Living at Gravit8 Klang South",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#5C3120",
+  "background_color": "#FAF6F1"
+}
